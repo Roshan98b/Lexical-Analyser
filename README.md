@@ -1,9 +1,9 @@
 # Lexical-Analyser
 
-Execution: 
-$ cd lex
-$ python lex.py text.cl
+Execution: <br>
+$ cd lex <br>
+$ python lex.py text.cl <br>
 
-Notes:
-1. Write a C like program in the file 'text.cl'.
+Notes: <br>
+1. Write a C like program in the file 'text.cl'. <br>
 2. The finite automata is represented as a Python dictionary.
